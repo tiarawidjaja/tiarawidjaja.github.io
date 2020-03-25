@@ -1,0 +1,21 @@
+body{
+	background-color: lightsteelblue;
+}
+
+h1{
+	text-align: left;
+    color: black;
+}
+
+p{
+	color: black;
+}
+
+h2{
+	text-align: left;
+	color: black;
+}
+
+img{
+	border-radius: 150px
+}
